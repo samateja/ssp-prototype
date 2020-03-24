@@ -65,7 +65,7 @@
         "index": 0,
         "isActive": true,
         "picture": "http://placehold.it/32x32",
-        "type": "column-chart",
+        "type": "text",
         "max": 100,
         "info": [
           {
@@ -116,7 +116,7 @@
         "index": 0,
         "isActive": false,
         "picture": "http://placehold.it/32x32",
-        "type": "column-chart",
+        "type": "graph",
         "max": 100,
         "info": [
           {
