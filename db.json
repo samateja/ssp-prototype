@@ -4,54 +4,54 @@
     "productName": "datatimport",
     "data": [
       {
-        "_id": "5e7a170d8cb5686fb48b4367",
+        "_id": "5e7a3cba971a7ae42d22e4d3",
         "index": 0,
         "isActive": true,
         "picture": "http://placehold.it/32x32",
-        "type": "column-chart",
+        "type": "text",
         "max": 100,
         "info": [
           {
             "id": 0,
-            "value": 20,
-            "error_id": "Err_XXXX000d45e9a61-1468-4cc5-a19c-a9667cb92b9d",
-            "message": "exception with process and import on line 9 terminated services"
+            "value": 18,
+            "error_id": "Err_XXXX000cd02e93c-1848-4776-b5cb-4400d0d6ac0f",
+            "message": "2 process are terminated"
           },
           {
             "id": 1,
-            "value": 14,
-            "error_id": "Err_XXXX00040b4feea-ccb0-46af-9a1d-b3826ea50876",
-            "message": "exception with process and import on line 8 terminated services"
+            "value": 18,
+            "error_id": "Err_XXXX00096621893-de9e-4108-bfec-131871a5ed83",
+            "message": "3 process are terminated"
           },
           {
             "id": 2,
             "value": 18,
-            "error_id": "Err_XXXX00002eae2a4-1d30-4694-95b9-37d7f222ae0f",
-            "message": "exception with process and import on line 4 terminated services"
+            "error_id": "Err_XXXX000fd828222-00b4-42f9-8ae6-47b69d706d52",
+            "message": "7 process are terminated"
           },
           {
             "id": 3,
-            "value": 18,
-            "error_id": "Err_XXXX000ada3e1e4-ea36-40bb-bd7a-0e409b1c379a",
-            "message": "exception with process and import on line 4 terminated services"
+            "value": 12,
+            "error_id": "Err_XXXX0009acbb7c1-3e40-43f0-bba4-963512386b0c",
+            "message": "1 process are terminated"
           },
           {
             "id": 4,
-            "value": 18,
-            "error_id": "Err_XXXX000a628ad30-15c9-4961-bbb0-50b3683a557e",
-            "message": "exception with process and import on line 1 terminated services"
+            "value": 12,
+            "error_id": "Err_XXXX000e58b6b2d-e554-43db-9593-909d3d4c6537",
+            "message": "1 process are terminated"
           },
           {
             "id": 5,
-            "value": 14,
-            "error_id": "Err_XXXX000fb4b985e-b212-4a9e-a824-fb927c5d9a9f",
-            "message": "exception with process and import on line 8 terminated services"
+            "value": 6,
+            "error_id": "Err_XXXX00082a79fef-c5d6-4d40-91a6-010ff17694c9",
+            "message": "2 process are terminated"
           },
           {
             "id": 6,
-            "value": 4,
-            "error_id": "Err_XXXX0004e6398ff-5769-4634-84ab-4bfe52a298b8",
-            "message": "exception with process and import on line 7 terminated services"
+            "value": 10,
+            "error_id": "Err_XXXX000b8591112-2b6a-4b7e-8a03-47444c3be543",
+            "message": "10 process are terminated"
           }
         ]
       }
@@ -61,48 +61,54 @@
     "productName": "processes",
     "data": [
       {
-        "_id": "5e7a170d14cf0c270e78e4a3",
+        "_id": "5e7a3cbaba0fd5df5c71c53a",
         "index": 0,
-        "isActive": true,
+        "isActive": false,
         "picture": "http://placehold.it/32x32",
-        "type": "text",
+        "type": "column-chart",
         "max": 100,
         "info": [
           {
             "id": 0,
             "value": 14,
-            "error_id": "Err_XXXX00081a33e93-9305-4fc9-81e2-9806529674d5",
-            "message": "exception with process and import on line 9 terminated services"
+            "error_id": "Err_XXXX000b7c081f5-0c07-4c23-a11a-05e1e65bd113",
+            "message": "2 process are terminated"
           },
           {
             "id": 1,
-            "value": 14,
-            "error_id": "Err_XXXX0009873d549-9f87-4fcd-94f9-f27d31a333c3",
-            "message": "exception with process and import on line 10 terminated services"
+            "value": 12,
+            "error_id": "Err_XXXX0002c1c0adf-e321-4545-9659-a2138c39133f",
+            "message": "7 process are terminated"
           },
           {
             "id": 2,
-            "value": 10,
-            "error_id": "Err_XXXX00035eb2a2a-a59d-494c-952f-37049144a408",
-            "message": "exception with process and import on line 3 terminated services"
+            "value": 4,
+            "error_id": "Err_XXXX00055b2cd86-affd-4bf2-91e0-c921670a3456",
+            "message": "6 process are terminated"
           },
           {
             "id": 3,
             "value": 2,
-            "error_id": "Err_XXXX000288518e6-77d4-4440-8462-6fe9dd756f1d",
-            "message": "exception with process and import on line 4 terminated services"
+            "error_id": "Err_XXXX00098ae6553-f3ba-4ef9-b8f6-a7f7ef142a7b",
+            "message": "9 process are terminated"
           },
           {
             "id": 4,
-            "value": 20,
-            "error_id": "Err_XXXX00045df052a-2735-4116-9290-fcfe8bdf30a9",
-            "message": "exception with process and import on line 4 terminated services"
+            "value": 18,
+            "error_id": "Err_XXXX00036d918de-a4c4-4746-8aad-ba2e9eb77cd2",
+            "message": "9 process are terminated"
           },
           {
             "id": 5,
-            "value": 10,
-            "error_id": "Err_XXXX000d52b5a3c-a6fd-44a9-a582-78ba425cde1c",
-            "message": "exception with process and import on line 5 terminated services"
+            "value": 14,
+            "error_id": "Err_XXXX000309b3af2-40c1-4d00-be60-ea2876bf3341",
+            "message": "2 process are terminated"
+          },
+          {
+            "id": 6,
+            "value": 12,
+            "error_id": "Err_XXXX0006f99383d-2ad1-44b8-8c39-d5529eb41b95",
+            "message": "5 process are terminated"
           }
         ]
       }
@@ -112,54 +118,54 @@
     "productName": "knowledge",
     "data": [
       {
-        "_id": "5e7a170d3de8e8963e957736",
+        "_id": "5e7a3cbac47fea505fa93c92",
         "index": 0,
         "isActive": false,
         "picture": "http://placehold.it/32x32",
-        "type": "graph",
+        "type": "column-chart",
         "max": 100,
         "info": [
           {
             "id": 0,
-            "value": 18,
-            "error_id": "Err_XXXX000ecd7c77d-941f-4a63-b6f3-c8accf91aafe",
-            "message": "exception with process and import on line 10 terminated services"
+            "value": 6,
+            "error_id": "Err_XXXX000f6e2fb58-cb26-4412-ba2d-eecb90cc56b0",
+            "message": "10 process are terminated"
           },
           {
             "id": 1,
-            "value": 16,
-            "error_id": "Err_XXXX000b2c39e85-6fb6-4cea-8f38-7142ce29c00c",
-            "message": "exception with process and import on line 6 terminated services"
+            "value": 10,
+            "error_id": "Err_XXXX00051747f56-0d2f-4532-b954-97a973c9f43e",
+            "message": "2 process are terminated"
           },
           {
             "id": 2,
-            "value": 2,
-            "error_id": "Err_XXXX0009af6b649-9543-4ac3-869c-945a7e32475a",
-            "message": "exception with process and import on line 4 terminated services"
+            "value": 4,
+            "error_id": "Err_XXXX0002cfc5a20-7e2b-44c9-bdd1-4efdf583a1e2",
+            "message": "3 process are terminated"
           },
           {
             "id": 3,
-            "value": 16,
-            "error_id": "Err_XXXX000a247a2e5-0676-4094-bb63-f050985b1f91",
-            "message": "exception with process and import on line 9 terminated services"
+            "value": 4,
+            "error_id": "Err_XXXX00084233aa2-8006-4c96-9d65-4b7968948de7",
+            "message": "6 process are terminated"
           },
           {
             "id": 4,
-            "value": 8,
-            "error_id": "Err_XXXX0009f6614bd-891c-457c-85ae-5548a10343f3",
-            "message": "exception with process and import on line 8 terminated services"
+            "value": 18,
+            "error_id": "Err_XXXX00033e976ec-9edc-4d89-b58c-11706a329337",
+            "message": "4 process are terminated"
           },
           {
             "id": 5,
-            "value": 20,
-            "error_id": "Err_XXXX0009d461eb2-1d3b-4d28-9c4c-cd71476d2441",
-            "message": "exception with process and import on line 9 terminated services"
+            "value": 18,
+            "error_id": "Err_XXXX00025cef712-b2b8-4224-ad70-f452d0611289",
+            "message": "10 process are terminated"
           },
           {
             "id": 6,
-            "value": 8,
-            "error_id": "Err_XXXX00050093cce-8f29-4fc0-ba42-ad9ff2023697",
-            "message": "exception with process and import on line 9 terminated services"
+            "value": 12,
+            "error_id": "Err_XXXX0000bebb240-15c1-4cbf-b560-4c55dbd74a36",
+            "message": "10 process are terminated"
           }
         ]
       }
