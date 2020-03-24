@@ -4,45 +4,18 @@
     "productName": "datatimport",
     "data": [
       {
-        "_id": "5e7a119df15b0f8fe7a8768c",
-        "index": 0,
-        "isActive": true,
-        "picture": "http://placehold.it/32x32",
-        "type": "column-chart",
-        "max": 100,
-        "data": [
-          {
-            "value": 25,
-            "tootltip": {
-              "id": 0,
-              "error_id": "Err_XXXX000ab05b892-ae7a-441a-91e0-e27f98f44cd3",
-              "message": "exception with process and import on line 9 terminated services"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "productName": "datatimport",
-    "data": [
-      {
-        "_id": "5e7a119dc3ebfc0eaf2277e2",
+        "_id": "5e7a1493ac788ae985e589b4",
         "index": 0,
         "isActive": false,
         "picture": "http://placehold.it/32x32",
         "type": "column-chart",
         "max": 100,
-        "data": [
-          {
-            "value": 25,
-            "tootltip": {
-              "id": 0,
-              "error_id": "Err_XXXX000b00e5745-4984-464b-a74a-f8bee433925f",
-              "message": "exception with process and import on line 3 terminated services"
-            }
-          }
-        ]
+        "value": 25,
+        "tootltip": {
+          "id": 0,
+          "error_id": "Err_XXXX000555ccb2c-0b08-44c7-91db-afbe83f7244a",
+          "message": "exception with process and import on line 3 terminated services"
+        }
       }
     ]
   },
@@ -50,22 +23,18 @@
     "productName": "datatimport",
     "data": [
       {
-        "_id": "5e7a119de06d13f1d050af24",
+        "_id": "5e7a1493d7fa1030c78b56bf",
         "index": 0,
         "isActive": true,
         "picture": "http://placehold.it/32x32",
         "type": "column-chart",
         "max": 100,
-        "data": [
-          {
-            "value": 25,
-            "tootltip": {
-              "id": 0,
-              "error_id": "Err_XXXX00090cba929-40f6-4fbe-aa80-da0363282ec8",
-              "message": "exception with process and import on line 8 terminated services"
-            }
-          }
-        ]
+        "value": 25,
+        "tootltip": {
+          "id": 0,
+          "error_id": "Err_XXXX000d28bc30f-c553-45c7-b837-cc8778c88490",
+          "message": "exception with process and import on line 10 terminated services"
+        }
       }
     ]
   },
@@ -73,22 +42,18 @@
     "productName": "datatimport",
     "data": [
       {
-        "_id": "5e7a119dfa7011df6b8219a1",
+        "_id": "5e7a14933a7860ffaca2481c",
         "index": 0,
         "isActive": false,
         "picture": "http://placehold.it/32x32",
         "type": "column-chart",
         "max": 100,
-        "data": [
-          {
-            "value": 25,
-            "tootltip": {
-              "id": 0,
-              "error_id": "Err_XXXX00043da5873-b606-404e-878c-75474054bb76",
-              "message": "exception with process and import on line 9 terminated services"
-            }
-          }
-        ]
+        "value": 25,
+        "tootltip": {
+          "id": 0,
+          "error_id": "Err_XXXX0005ebe164a-06ed-4785-8464-977fd9974d6c",
+          "message": "exception with process and import on line 8 terminated services"
+        }
       }
     ]
   },
@@ -96,45 +61,37 @@
     "productName": "datatimport",
     "data": [
       {
-        "_id": "5e7a119d790810cffb30e0c8",
-        "index": 0,
-        "isActive": true,
-        "picture": "http://placehold.it/32x32",
-        "type": "column-chart",
-        "max": 100,
-        "data": [
-          {
-            "value": 25,
-            "tootltip": {
-              "id": 0,
-              "error_id": "Err_XXXX00084be096e-c688-4a6f-b500-807697be39ba",
-              "message": "exception with process and import on line 1 terminated services"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "productName": "datatimport",
-    "data": [
-      {
-        "_id": "5e7a119de296aaabbac8310d",
+        "_id": "5e7a149367faa1d842595961",
         "index": 0,
         "isActive": false,
         "picture": "http://placehold.it/32x32",
         "type": "column-chart",
         "max": 100,
-        "data": [
-          {
-            "value": 25,
-            "tootltip": {
-              "id": 0,
-              "error_id": "Err_XXXX0001d32bc80-fdeb-47c4-a837-684a8efab033",
-              "message": "exception with process and import on line 6 terminated services"
-            }
-          }
-        ]
+        "value": 25,
+        "tootltip": {
+          "id": 0,
+          "error_id": "Err_XXXX000ab1ebd88-58bc-4fa7-8f11-f6c7cfe76001",
+          "message": "exception with process and import on line 9 terminated services"
+        }
+      }
+    ]
+  },
+  {
+    "productName": "datatimport",
+    "data": [
+      {
+        "_id": "5e7a149327dd9d968c24e9b3",
+        "index": 0,
+        "isActive": false,
+        "picture": "http://placehold.it/32x32",
+        "type": "column-chart",
+        "max": 100,
+        "value": 25,
+        "tootltip": {
+          "id": 0,
+          "error_id": "Err_XXXX00051369fb2-be44-4a14-9c60-34b494e78d5b",
+          "message": "exception with process and import on line 9 terminated services"
+        }
       }
     ]
   }
