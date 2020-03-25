@@ -101,7 +101,7 @@
             "value": 35,
             "message_id": "id_XXXX00098ae6553-f3ba-4ef9-b8f6-a7f7ef142a7b",
             "message": "9 process are suspended",
-            "kind": "warning"
+            "kind": "sucess"
           },
           {
             "id": 4,
