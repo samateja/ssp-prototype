@@ -141,52 +141,52 @@
         "info": [
           {
             "id": 0,
-            "value": 6,
+            "value": 65,
             "message_id": "Err_XXXX000f6e2fb58-cb26-4412-ba2d-eecb90cc56b0",
-            "message": "10 process are terminated",
+            "message": "article not found with knowledge",
             "kind": "error"
           },
           {
             "id": 1,
-            "value": 10,
+            "value": 70,
             "message_id": "Err_XXXX00051747f56-0d2f-4532-b954-97a973c9f43e",
-            "message": "2 process are terminated",
-            "kind": "error"
+            "message": "2 articles processed succesfully!",
+            "kind": "sucess"
           },
           {
             "id": 2,
-            "value": 4,
+            "value": 30,
             "message_id": "Err_XXXX0002cfc5a20-7e2b-44c9-bdd1-4efdf583a1e2",
             "message": "3 process are terminated",
             "kind": "error"
           },
           {
             "id": 3,
-            "value": 4,
+            "value": 50,
             "message_id": "Err_XXXX00084233aa2-8006-4c96-9d65-4b7968948de7",
-            "message": "6 process are terminated",
-            "kind": "error"
+            "message": "article found with keyword keyword",
+            "kind": "sucess"
           },
           {
             "id": 4,
-            "value": 18,
+            "value": 28,
             "message_id": "Err_XXXX00033e976ec-9edc-4d89-b58c-11706a329337",
-            "message": "4 process are terminated",
-            "kind": "error"
+            "message": "4 articles are crashed",
+            "kind": "warning"
           },
           {
             "id": 5,
             "value": 18,
             "message_id": "Err_XXXX00025cef712-b2b8-4224-ad70-f452d0611289",
-            "message": "10 process are terminated",
-            "kind": "error"
+            "message": "10 articles found matching with serviceware",
+            "kind": "sucess"
           },
           {
             "id": 6,
-            "value": 12,
+            "value": 30,
             "message_id": "Err_XXXX0000bebb240-15c1-4cbf-b560-4c55dbd74a36",
-            "message": "10 process are terminated",
-            "kind": "error"
+            "message": "10 articles are in progress",
+            "kind": "warning"
           }
         ]
       }
