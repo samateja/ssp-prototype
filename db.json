@@ -13,52 +13,52 @@
         "info": [
           {
             "id": 0,
-            "value": 18,
-            "message_id": "Err_XXXX000cd02e93c-1848-4776-b5cb-4400d0d6ac0f",
-            "message": "2 process are terminated",
-			"kind": "error"
+            "value": 85,
+            "message_id": "Run42",
+            "message": "2 rows are updated",
+            "kind": "sucess"
           },
           {
             "id": 1,
-            "value": 18,
-            "message_id": "Err_XXXX00096621893-de9e-4108-bfec-131871a5ed83",
-            "message": "3 process are terminated",
-			"kind": "error"
+            "value": 45,
+            "message_id": "Run1337",
+            "message": "0 rows updated\nCannot access the database server",
+            "kind": "error"
           },
           {
             "id": 2,
-            "value": 18,
-            "message_id": "Err_XXXX000fd828222-00b4-42f9-8ae6-47b69d706d52",
-            "message": "7 process are terminated",
-			"kind": "error"
+            "value": 60,
+            "message_id": "Run123",
+            "message": "0 rows updated\nCSV Source was empty",
+            "kind": "warning"
           },
           {
             "id": 3,
-            "value": 12,
-            "message_id": "Err_XXXX0009acbb7c1-3e40-43f0-bba4-963512386b0c",
-            "message": "1 process are terminated",
-			"kind": "error"
+            "value": 100,
+            "message_id": "Run42",
+            "message": "1278 rows are updated",
+            "kind": "sucess"
           },
           {
             "id": 4,
-            "value": 12,
-            "message_id": "Err_XXXX000e58b6b2d-e554-43db-9593-909d3d4c6537",
-            "message": "1 process are terminated",
-			"kind": "error"
+            "value": 45,
+            "message_id": "Run1337",
+            "message": "0 rows updated\nCannot access the database server",
+            "kind": "error"
           },
           {
             "id": 5,
-            "value": 6,
-            "message_id": "Err_XXXX00082a79fef-c5d6-4d40-91a6-010ff17694c9",
-            "message": "2 process are terminated",
-			"kind": "error"
+            "value": 55,
+            "message_id": "Run123",
+            "message": "0 rows updated\nCSV Source was empty",
+            "kind": "warning"
           },
           {
             "id": 6,
-            "value": 10,
-            "message_id": "Err_XXXX000b8591112-2b6a-4b7e-8a03-47444c3be543",
-            "message": "10 process are terminated",
-			"kind": "error"
+            "value": 15,
+            "message_id": "Run17",
+            "message": "0 rows updated\nCannot access the database server",
+            "kind": "error"
           }
         ]
       }
@@ -80,49 +80,49 @@
             "value": 14,
             "message_id": "Err_XXXX000b7c081f5-0c07-4c23-a11a-05e1e65bd113",
             "message": "2 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 1,
             "value": 12,
             "message_id": "Err_XXXX0002c1c0adf-e321-4545-9659-a2138c39133f",
             "message": "7 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 2,
             "value": 4,
             "message_id": "Err_XXXX00055b2cd86-affd-4bf2-91e0-c921670a3456",
             "message": "6 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 3,
             "value": 2,
             "message_id": "Err_XXXX00098ae6553-f3ba-4ef9-b8f6-a7f7ef142a7b",
             "message": "9 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 4,
             "value": 18,
             "message_id": "Err_XXXX00036d918de-a4c4-4746-8aad-ba2e9eb77cd2",
             "message": "9 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 5,
             "value": 14,
             "message_id": "Err_XXXX000309b3af2-40c1-4d00-be60-ea2876bf3341",
             "message": "2 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 6,
             "value": 12,
             "message_id": "Err_XXXX0006f99383d-2ad1-44b8-8c39-d5529eb41b95",
             "message": "5 process are terminated",
-			"kind": "error"
+            "kind": "error"
           }
         ]
       }
@@ -144,49 +144,49 @@
             "value": 6,
             "message_id": "Err_XXXX000f6e2fb58-cb26-4412-ba2d-eecb90cc56b0",
             "message": "10 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 1,
             "value": 10,
             "message_id": "Err_XXXX00051747f56-0d2f-4532-b954-97a973c9f43e",
             "message": "2 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 2,
             "value": 4,
             "message_id": "Err_XXXX0002cfc5a20-7e2b-44c9-bdd1-4efdf583a1e2",
             "message": "3 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 3,
             "value": 4,
             "message_id": "Err_XXXX00084233aa2-8006-4c96-9d65-4b7968948de7",
             "message": "6 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 4,
             "value": 18,
             "message_id": "Err_XXXX00033e976ec-9edc-4d89-b58c-11706a329337",
             "message": "4 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 5,
             "value": 18,
             "message_id": "Err_XXXX00025cef712-b2b8-4224-ad70-f452d0611289",
             "message": "10 process are terminated",
-			"kind": "error"
+            "kind": "error"
           },
           {
             "id": 6,
             "value": 12,
             "message_id": "Err_XXXX0000bebb240-15c1-4cbf-b560-4c55dbd74a36",
             "message": "10 process are terminated",
-			"kind": "error"
+            "kind": "error"
           }
         ]
       }
