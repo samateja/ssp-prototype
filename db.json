@@ -77,49 +77,49 @@
         "info": [
           {
             "id": 0,
-            "value": 14,
+            "value": 45,
             "message_id": "Err_XXXX000b7c081f5-0c07-4c23-a11a-05e1e65bd113",
             "message": "2 process are terminated",
             "kind": "error"
           },
           {
             "id": 1,
-            "value": 12,
+            "value": 25,
             "message_id": "id_XXXX0002c1c0adf-e321-4545-9659-a2138c39133f",
             "message": "7 process are success",
             "kind": "sucess"
           },
           {
             "id": 2,
-            "value": 4,
+            "value": 65,
             "message_id": "Err_XXXX00055b2cd86-affd-4bf2-91e0-c921670a3456",
             "message": "6 process are terminated",
             "kind": "error"
           },
           {
             "id": 3,
-            "value": 2,
+            "value": 35,
             "message_id": "id_XXXX00098ae6553-f3ba-4ef9-b8f6-a7f7ef142a7b",
             "message": "9 process are suspended",
             "kind": "warning"
           },
           {
             "id": 4,
-            "value": 18,
+            "value": 86,
             "message_id": "Err_XXXX00036d918de-a4c4-4746-8aad-ba2e9eb77cd2",
             "message": "9 process are terminated",
             "kind": "error"
           },
           {
             "id": 5,
-            "value": 14,
+            "value": 90,
             "message_id": "id_140102 && id_23467",
             "message": "2 process are in queue",
             "kind": "warning"
           },
           {
             "id": 6,
-            "value": 12,
+            "value": 15,
             "message_id": "Err_XXXX0006f99383d-2ad1-44b8-8c39-d5529eb41b95",
             "message": "5 process are terminated",
             "kind": "error"
