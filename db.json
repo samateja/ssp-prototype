@@ -85,9 +85,9 @@
           {
             "id": 1,
             "value": 12,
-            "message_id": "Err_XXXX0002c1c0adf-e321-4545-9659-a2138c39133f",
-            "message": "7 process are terminated",
-            "kind": "error"
+            "message_id": "id_XXXX0002c1c0adf-e321-4545-9659-a2138c39133f",
+            "message": "7 process are success",
+            "kind": "sucess"
           },
           {
             "id": 2,
@@ -99,9 +99,9 @@
           {
             "id": 3,
             "value": 2,
-            "message_id": "Err_XXXX00098ae6553-f3ba-4ef9-b8f6-a7f7ef142a7b",
-            "message": "9 process are terminated",
-            "kind": "error"
+            "message_id": "id_XXXX00098ae6553-f3ba-4ef9-b8f6-a7f7ef142a7b",
+            "message": "9 process are suspended",
+            "kind": "warning"
           },
           {
             "id": 4,
@@ -113,9 +113,9 @@
           {
             "id": 5,
             "value": 14,
-            "message_id": "Err_XXXX000309b3af2-40c1-4d00-be60-ea2876bf3341",
-            "message": "2 process are terminated",
-            "kind": "error"
+            "message_id": "id_140102 && id_23467",
+            "message": "2 process are in queue",
+            "kind": "warning"
           },
           {
             "id": 6,
